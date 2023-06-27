@@ -1,7 +1,7 @@
 # Chatbot Project
 ## Getting Started
 
-To get started with this chatbot project, please refer to the [user guide](./docs/user_guide.md) in the `docs/` directory. It provides detailed instructions on how to set up the environment, install dependencies, and run the chatbot locally.
+To get started with this chatbot project, please refer to the [user guide] in the `docs/` directory. It provides detailed instructions on how to set up the environment, install dependencies, and run the chatbot locally.
 
 ## Code Snippet
 ## 1.Import and load the data file
