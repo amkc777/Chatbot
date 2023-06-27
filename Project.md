@@ -1,9 +1,7 @@
 # Chatbot Project
 ## Getting Started
 
-To get started with this chatbot project, please refer to the [user guide] in the `docs/` directory. It provides detailed instructions on how to set up the environment, install dependencies, and run the chatbot locally.
 
-## Code Snippet
 ## 1.Import and load the data file
 The data file is in JSON format so we used the json package to parse the JSON file into Python:
 
